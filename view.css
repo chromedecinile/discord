@@ -26,13 +26,7 @@
 	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
 	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
 
-	/* text colors */
-	--text-0: white; /* text on colored elements */
-	--text-1: var(--text-2); /* other normally white text */
-	--text-2: hsl(220, 25%, 70%); /* headings and important text */
-	--text-3: hsl(220, 15%, 60%); /* normal text */
-	--text-4: hsl(220, 15%, 40%); /* icon buttons and channels */
-	--text-5: hsl(220, 15%, 25%); /* muted channels/chats and timestamps */
+
 
 	/* background and dark colors */
 	--bg-1: hsl(220, 15%, 20%); /* dark buttons when clicked */
@@ -43,11 +37,8 @@
 	--active: hsla(220, 20%, 40%, 0.2); /* channels and buttons when clicked or selected */
 	--message-hover: hsla(220, 0%, 0%, 0.1); /* messages when hovered */
 
-	/* amount of spacing and padding */
 	--spacing: 12px;
 
-	/* animations */
-	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
 	--list-item-transition: 0.2s ease; /* channels/members/settings hover transition */
 	--unread-bar-transition: 0.2s ease; /* unread bar moving into view transition */
 	--moon-spin-transition: 0.4s ease; /* moon icon spin */
@@ -57,7 +48,6 @@
 	--roundness-xl: 22px; /* roundness of big panel outer corners */
 	--roundness-l: 20px; /* popout panels */
 	--roundness-m: 16px; /* smaller panels, images, embeds */
-	--roundness-s: 12px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
 	--roundness-xxs: 8px; /* searchbar, small elements */
 
