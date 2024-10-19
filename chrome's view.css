@@ -1,0 +1,34 @@
+/**
+ * @name chrome's view
+ * @author chromedecinile
+ * @version V1.0.0
+ * @description Theres a place, a far place, where i will go soon...
+ *
+
+ 
+**/
+
+@import url('https://B4T3S.github.io/DiscordDarkNeon/mainRewrite.css');
+@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+@import url('https://B4T3S.github.io/DiscordDarkNeon/css/hideUsers.css');
+:root {
+  --rgb-highlight: 218, 50, 218; 
+  --rgb-background: 0, 0, 0;
+  --rgb-text: 218, 200, 218; 
+  --rgb-close-button: 218, 0, 218; 
+  --rgb-online-color: 57, 255, 20; 
+  --rgb-afk-color: 255, 255, 51; 
+  --rgb-dnd-color: 255, 0, 0;
+  --rgb-streaming-color: 188, 19, 254; 
+
+  --transition-time: .3s; 
+
+  --background-image: unset; 
+  --background-position: center; 
+  --background-size: cover; 
+  --background-blur: 10px; 
+  --background-brightness: 50%;
+  
+  --corner-text: 'Midnight';
+}
+
